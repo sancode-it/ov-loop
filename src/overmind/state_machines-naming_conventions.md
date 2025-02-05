@@ -62,3 +62,5 @@ Examples:
 
 - <https://github.com/felangel/bloc/blob/master/docs/blocnamingconventions.md>
 - <https://youtu.be/2f-jEz1zoPM?t=558>
+
+*© 2024 Henri Hulski*
