@@ -2,7 +2,6 @@ import * as actions from './actions'
 
 import {
   createActionsHook,
-  createReactionHook,
   createStateHook,
 } from 'overmind-react'
 
@@ -18,4 +17,3 @@ export type Context = IContext<typeof config>
 
 export const useAppState = createStateHook<Context>()
 export const useActions = createActionsHook<Context>()
-export const useReaction = createReactionHook<Context>()
