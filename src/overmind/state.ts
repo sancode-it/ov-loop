@@ -1,4 +1,4 @@
-import { type Statemachine, statemachine } from 'overmind'
+import { statemachine } from 'overmind'
 
 type State =
   | {
